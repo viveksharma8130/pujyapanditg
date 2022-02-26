@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.429b79df.css",
-    "main.js": "/static/js/main.38ae642e.js",
+    "main.js": "/static/js/main.2b3e7082.js",
     "static/js/787.49191467.chunk.js": "/static/js/787.49191467.chunk.js",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
     "static/media/abtbanner.png": "/static/media/abtbanner.55637e9d173b6faccb39.png",
@@ -25,11 +25,11 @@
     "static/media/arrow_left.svg": "/static/media/arrow_left.db6e2d88c7c35a775ce4.svg",
     "static/media/arrow_right.svg": "/static/media/arrow_right.f7c6ac6d310d3b82f0a0.svg",
     "main.429b79df.css.map": "/static/css/main.429b79df.css.map",
-    "main.38ae642e.js.map": "/static/js/main.38ae642e.js.map",
+    "main.2b3e7082.js.map": "/static/js/main.2b3e7082.js.map",
     "787.49191467.chunk.js.map": "/static/js/787.49191467.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.429b79df.css",
-    "static/js/main.38ae642e.js"
+    "static/js/main.2b3e7082.js"
   ]
 }
